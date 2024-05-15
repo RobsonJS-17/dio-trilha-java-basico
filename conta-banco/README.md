@@ -1,18 +1,18 @@
-## Getting Started
+# Excercicio Java:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Criar código de uma aplicação de banco via terminal abordando e utilizando conceitos vistos em aula.
 
-## Folder Structure
+## Descrição do Desafio:
 
-The workspace contains two folders by default, where:
+Ponha em prática os fundamentos da linguagem e noções de regras de estrutura de sintaxe.
+Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert criando um repositório próprio e, com isso, aumentando ainda mais seu portfólio de projetos no GitHub!
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Pré-requisitos:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+• Lógica de programação e POO;
+• Conhecimentos básicos em Java;
+• Computador com SO de sua preferência(Windows, Linux, Mac OS);
+• IDE (Visual Studio Code, Eclipse, etc);
+Slides e GitHub
+/A apresentação completa utilizada durante o curso está disponível [AQUI](https://docs.google.com/presentation/d/1kt8Qcrkcv0S0aph4vNcDHeo8G2ek6uyQ/edit#slide=id.p4)
+Com isso, você terá acesso ao [projeto do Github](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe) e links explorados durante as aulas.
